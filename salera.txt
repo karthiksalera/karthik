@@ -1,1 +1,17 @@
 Karthik Salera G P
+
+class Sample
+{
+	void add()
+	{
+		int a = 1;
+		int b = 1;
+		int c = a + b;
+		sop(c);
+	}
+	
+	public static void main()
+	{
+		add();
+	}
+}
